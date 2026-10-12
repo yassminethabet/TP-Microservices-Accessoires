@@ -1,0 +1,10 @@
+**/node_modules/
+**/.next/
+**/build/
+**/dist/
+**/.tmp/
+**/.env
+**/.env.*
+!**/.env.example
+*.log
+Thumbs.db
